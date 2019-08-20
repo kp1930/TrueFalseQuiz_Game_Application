@@ -1,5 +1,15 @@
 <resources>
 
     <string name="app_name">True False Quiz</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="retry_quiz">Retry Quiz</string>
+    <string name="you_scored_8_out_of_9">You scored 8 out of 9</string>
+    <string name="congratulations">Congratulations</string>
+    <string name="f">False</string>
+    <string name="t">True</string>
+    <string name="magnets_have_3_poles">Magnets have 3 poles</string>
+    <string name="zero">0</string>
+    <string name="score">Score:</string>
+    <string name="img_quiz">TODO</string>
 
 </resources>
